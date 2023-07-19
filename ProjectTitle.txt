@@ -1,0 +1,3 @@
+{ARDUINO BASED BT CAR}
+
+A bluetooth controlled car using Arduino uno board.
